@@ -31,3 +31,6 @@ pnpm-debug.log*
 # Build
 /build
 /dist
+
+# Deployment files
+deploy.zip
